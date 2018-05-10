@@ -1,0 +1,10 @@
+[package]
+name = "libsodium-rust"
+version = "0.1.0"
+authors = ["Mark Nguyen <mnguyen4@apple.com>"]
+build = "build.rs"
+
+[dependencies]
+
+[build-dependencies]
+reqwest = "0.8.5"
