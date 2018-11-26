@@ -1,1 +1,5 @@
+# Metadata from macOS file system
 .DS_Store
+
+# These are build targets for rust
+target/
